@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+printf("Name - Naman Kataria\nSAP ID - 590025455\nCourse - BSC CS");
+printf("\n--------------------------------------------------------------------\n");
 int i = 42;
 float f = 3.14;
 char c = 'A';
