@@ -16,7 +16,6 @@ char ch = 'A';
 printf("Before modification:\n");
 printf("Integer: %d, Float: %.2f, Char: %c\n", i, f, ch);
 
-// Pass addresses of variables to the function
 modifyValues(&i, &f, &ch);
 
 printf("After modification:\n");
